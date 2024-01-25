@@ -1,6 +1,7 @@
 {
-    "program": "message.aleo",
+*   "program": "message.aleo",
     "version": "0.0.0",
     "description": "",
     "license": "MIT"
 }
+ 
